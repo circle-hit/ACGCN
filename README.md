@@ -70,7 +70,7 @@ python train.py --learning_rate 5e-5 --model_name asgcn_bert --embed_type bert -
 
 ## Model
 
-An overview of proposed ACGCN model is given below
+An overview of proposed ACGCN model structure is given below
 
 ![image](https://github.com/circle-hit/ACGCN/blob/master/models/model.jpg)
 
